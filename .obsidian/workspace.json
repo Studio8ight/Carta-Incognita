@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff69660281b97bf5",
+            "id": "69bbbfbca4c7d6c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Recorded Sessions/28.08.26.md",
-                "mode": "source",
-                "source": false
+                "file": "BrainStorm_28.08.26.pdf"
               },
-              "icon": "lucide-file",
-              "title": "28.08.26"
+              "icon": "lucide-file-text",
+              "title": "BrainStorm_28.08.26"
             }
           }
         ]
@@ -83,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 200
   },
   "right": {
     "id": "70f30170f35d4ef4",
@@ -99,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "From Jamie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "From Jamie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "From Jamie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,6 +187,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2be7566706c1cb69",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ],
         "currentTab": 6
@@ -209,24 +219,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "ab61a2181336484f",
+  "active": "69bbbfbca4c7d6c1",
   "lastOpenFiles": [
+    "Untitled/Untitled.md",
     "Recorded Sessions/28.08.26.md",
-    "conflict-files-obsidian-git.md",
-    "BrainStorm_28.08.26.pdf",
-    "README.md",
     "Recorded Sessions",
+    "BrainStorm_28.08.26.pdf",
+    "Untitled",
+    "Chips/References/Video Clips/MiniMax_H3_00002_.mp4",
+    "Chips/References/Images/Seagull_iStock.jpg",
+    "README.md",
     "From Jamie.md",
     "From RICH.md",
     "Chips/Seagull Concept.md",
     "Chips/References",
     "Chips/References/Images",
-    "Chips/References/Images/Seagull_iStock.jpg",
     "Chips/References/Video Clips",
-    "Chips/References/Video Clips/MiniMax_H3_00002_.mp4",
     "Chips"
   ]
 }
