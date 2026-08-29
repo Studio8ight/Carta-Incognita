@@ -13,3 +13,8 @@
 "smart_sources:BrainStorm_28.08.26.pdf": null,
 "smart_sources:Recorded Sessions/28.08.26.md": null,
 "smart_sources:README.md": {"class_name":"SmartSource","last_read":{"hash":"1rz99rp","at":1788014057459},"embedding":{"history":[]},"path":"README.md","last_import":{"mtime":1788014042071,"size":23,"at":1788014057461,"hash":"1rz99rp"},"outlinks":[],"blocks_data":{"#":{"text":null,"length":0,"last_read":{"hash":"1rz99rp","at":1788014057459},"key":"README.md#","lines":[1,2],"size":23,"should_embed":false}},"block_embedding_selection":{"version":2,"min_chars":200,"max_input_chars":1894,"source_key":"README.md","requires_reimport":false},"task_lines":[],"tasks":{},"codeblock_ranges":[],"outlinks_version":2,"key":"README.md"},
+"smart_sources:README.md": {"class_name":"SmartSource","last_read":{"hash":"yr37bj","at":1788014148030},"embedding":{"history":[]},"path":"README.md","last_import":{"mtime":1788014128603,"size":57,"at":1788014148030,"hash":"yr37bj"},"outlinks":[],"blocks_data":{"#":{"text":null,"length":0,"last_read":{"hash":"yr37bj","at":1788014148030},"key":"README.md#","lines":[1,4],"size":57,"should_embed":false}},"block_embedding_selection":{"version":2,"min_chars":200,"max_input_chars":1894,"source_key":"README.md","requires_reimport":false},"task_lines":[],"tasks":{},"codeblock_ranges":[],"outlinks_version":2,"key":"README.md"},
+"smart_sources:Chips/Seagull Concept.md": null,
+"smart_sources:Chips/References/Seagull Concept.md": null,
+"smart_sources:Chips/References/Video Clips/MiniMax_H3_00002_.mp4": null,
+"smart_sources:Chips/References/Images/Seagull_iStock.jpg": null,
