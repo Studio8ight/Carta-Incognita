@@ -19,3 +19,5 @@
 "smart_sources:From Jamie.md": null,
 "smart_sources:From Jamie.md": null,
 "smart_sources:From RICH.md": null,
+"smart_sources:README.md": {"class_name":"SmartSource","last_read":{"hash":"louldd","at":1788012748612},"embedding":{"history":[]},"path":"README.md","last_import":{"mtime":1788012736000,"size":18,"at":1788012748613,"hash":"louldd"},"outlinks":[],"blocks_data":{"#":{"text":null,"length":0,"last_read":{"hash":"louldd","at":1788012748612},"key":"README.md#","lines":[1,2],"size":18,"should_embed":false}},"block_embedding_selection":{"version":2,"min_chars":200,"max_input_chars":1894,"source_key":"README.md","requires_reimport":false},"task_lines":[],"tasks":{},"codeblock_ranges":[],"outlinks_version":2},
+"smart_sources:Recorded Sessions/Untitled.md": null,
