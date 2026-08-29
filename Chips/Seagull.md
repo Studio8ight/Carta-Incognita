@@ -1,1 +1,1 @@
-![[istockphoto-1084217532-612x612.jpg]]
+![[Seagull_Concept.jpg]]
