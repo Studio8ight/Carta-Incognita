@@ -7,11 +7,6 @@
 .smart-env/
 .local/
 
-# Ignore compiled/generated materials (e.g., images/previews that shouldn't be part of history)
-*.png
-*.jpg
-*.webp
-
 # Ignore compiled markdown/HTML/PDF exports (if these are done outside of structured notes)
 **/*.html
 *.json
