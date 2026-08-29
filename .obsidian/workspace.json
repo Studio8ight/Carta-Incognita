@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "626bf16e466c30fa",
+    "id": "5ada8175ce0d6fb3",
     "type": "split",
     "children": [
       {
-        "id": "e7ec5fc5612337f6",
+        "id": "f3fac73fab70aeab",
         "type": "tabs",
         "children": [
           {
-            "id": "5f0375cc87bdce78",
+            "id": "ff69660281b97bf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Chips/Seagull Concept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Seagull Concept"
+            }
+          },
+          {
+            "id": "ac1e3a28cc9b77cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From Jamie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "From Jamie"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4dbdbd2a9a638578",
+    "id": "507f961a6aefeacf",
     "type": "split",
     "children": [
       {
-        "id": "03a5649ccadf21c1",
+        "id": "dd79bb520486a7c5",
         "type": "tabs",
         "children": [
           {
-            "id": "61259255a120143f",
+            "id": "ab61a2181336484f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +65,7 @@
             }
           },
           {
-            "id": "fb872fd440c1baf7",
+            "id": "795d9b898d4b728e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +82,7 @@
             }
           },
           {
-            "id": "50683b1bf6f2bb65",
+            "id": "63bd58cac4ce9454",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +101,20 @@
     "width": 300
   },
   "right": {
-    "id": "c319839577efbd1a",
+    "id": "70f30170f35d4ef4",
     "type": "split",
     "children": [
       {
-        "id": "fa0132bc0c176060",
+        "id": "941f58727db99da5",
         "type": "tabs",
         "children": [
           {
-            "id": "3a99e99ee31c758e",
+            "id": "65987fe8324224df",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "From Jamie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +128,12 @@
             }
           },
           {
-            "id": "d43f61604855c910",
+            "id": "c3e4952b765bec4d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "From Jamie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +142,7 @@
             }
           },
           {
-            "id": "ec0da82454eb3a99",
+            "id": "d78fb117a007ad59",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +157,7 @@
             }
           },
           {
-            "id": "08d22efd83c77612",
+            "id": "8493fff5375962a7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +171,12 @@
             }
           },
           {
-            "id": "6bbda37b4c91b7f8",
+            "id": "59055e4a49e79bd4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "From Jamie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +186,7 @@
             }
           },
           {
-            "id": "6140e4562306df82",
+            "id": "05b0beb0b2a4ac17",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -181,17 +196,7 @@
             }
           },
           {
-            "id": "3bbbdba7989f93df",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
-          },
-          {
-            "id": "380ca0319da100ca",
+            "id": "92a07711d00a7f67",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -201,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -221,22 +226,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "realclaudian:Open Claudian": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "380ca0319da100ca",
+  "active": "ab61a2181336484f",
   "lastOpenFiles": [
-    "From RICH.md",
     "Chips/Seagull Concept.md",
-    "Chips/References/Video Clips/MiniMax_H3_00002_.mp4",
-    "Chips/References/Video Clips",
-    "Chips/References/Images/Seagull_iStock.jpg",
-    "Chips/References/Images",
+    "From Jamie.md",
+    "From RICH.md",
     "Chips/References",
-    "Chips",
-    "README.md"
+    "Chips/References/Images",
+    "Chips/References/Images/Seagull_iStock.jpg",
+    "Chips/References/Video Clips",
+    "Chips/References/Video Clips/MiniMax_H3_00002_.mp4",
+    "Chips"
   ]
 }
