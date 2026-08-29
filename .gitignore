@@ -14,7 +14,8 @@
 
 # Ignore compiled markdown/HTML/PDF exports (if these are done outside of structured notes)
 **/*.html
-**/*.pdf
+*.json
+*.ajson
 
 # Ignore binary or serialized file types not intended to be tracked
 *.sqlite
