@@ -12,3 +12,4 @@
 "smart_sources:Captains Quarters/Discussions/28.08.26 Intro Discussion.pdf": null,
 "smart_sources:BrainStorm_28.08.26.pdf": null,
 "smart_sources:Recorded Sessions/28.08.26.md": null,
+"smart_sources:README.md": {"class_name":"SmartSource","last_read":{"hash":"1rz99rp","at":1788014057459},"embedding":{"history":[]},"path":"README.md","last_import":{"mtime":1788014042071,"size":23,"at":1788014057461,"hash":"1rz99rp"},"outlinks":[],"blocks_data":{"#":{"text":null,"length":0,"last_read":{"hash":"1rz99rp","at":1788014057459},"key":"README.md#","lines":[1,2],"size":23,"should_embed":false}},"block_embedding_selection":{"version":2,"min_chars":200,"max_input_chars":1894,"source_key":"README.md","requires_reimport":false},"task_lines":[],"tasks":{},"codeblock_ranges":[],"outlinks_version":2,"key":"README.md"},
