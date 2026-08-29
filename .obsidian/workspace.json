@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recorded Sessions/28.08.26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recorded Sessions/28.08.26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recorded Sessions/28.08.26.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,11 +212,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ff69660281b97bf5",
+  "active": "ab61a2181336484f",
   "lastOpenFiles": [
+    "Recorded Sessions/28.08.26.md",
+    "conflict-files-obsidian-git.md",
     "BrainStorm_28.08.26.pdf",
     "README.md",
-    "Recorded Sessions/28.08.26.md",
     "Recorded Sessions",
     "From Jamie.md",
     "From RICH.md",
