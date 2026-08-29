@@ -1,3 +1,1 @@
-chips -- > DEATH TO FRIES  from above!
-
-This is a test !
+A online GitHub Repo for Studio 8ight ideation, concepting and mood-boarding!
