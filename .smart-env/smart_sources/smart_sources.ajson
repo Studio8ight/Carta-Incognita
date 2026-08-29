@@ -17,3 +17,5 @@
 "smart_sources:From RICH.md": {"class_name":"SmartSource","last_read":{"hash":"1k73ck4","at":1788012477180},"embedding":{"history":[]},"path":"From RICH.md","last_import":{"mtime":1788012463142,"size":56,"at":1788012477181,"hash":"1k73ck4"},"outlinks":[],"blocks_data":{"#":{"text":null,"length":0,"last_read":{"hash":"1k73ck4","at":1788012477180},"key":"From RICH.md#","lines":[1,3],"size":56,"should_embed":false}},"block_embedding_selection":{"version":2,"min_chars":200,"max_input_chars":1894,"source_key":"From RICH.md","requires_reimport":false},"task_lines":[],"tasks":{},"codeblock_ranges":[],"outlinks_version":2,"key":"From RICH.md"},
 "smart_sources:From RICH.md": null,
 "smart_sources:From Jamie.md": null,
+"smart_sources:From Jamie.md": null,
+"smart_sources:From RICH.md": null,

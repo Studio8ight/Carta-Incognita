@@ -13,15 +13,66 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Chips/Seagull Concept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Seagull Concept"
+            }
+          },
+          {
+            "id": "ac1e3a28cc9b77cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From Jamie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "From Jamie"
+            }
+          },
+          {
+            "id": "c6d998706b07ffba",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
+            }
+          },
+          {
+            "id": "e2486d64a277a6ee",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "Chips/References/Video Clips/MiniMax_H3_00002_.mp4"
+              },
+              "icon": "lucide-file",
+              "title": "MiniMax_H3_00002_"
+            }
+          },
+          {
+            "id": "69bbbfbca4c7d6c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -83,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 200
   },
   "right": {
     "id": "70f30170f35d4ef4",
@@ -99,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "From Jamie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "From Jamie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "From Jamie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,6 +240,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2be7566706c1cb69",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ],
         "currentTab": 6
@@ -211,19 +272,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "ff69660281b97bf5",
+  "active": "ab61a2181336484f",
   "lastOpenFiles": [
+    "Untitled",
+    "Chips/References/Video Clips/MiniMax_H3_00002_.mp4",
+    "Untitled/Untitled.md",
+    "Chips/References/Images/Seagull_iStock.jpg",
+    "README.md",
     "From Jamie.md",
     "From RICH.md",
     "Chips/Seagull Concept.md",
     "Chips/References",
     "Chips/References/Images",
-    "Chips/References/Images/Seagull_iStock.jpg",
     "Chips/References/Video Clips",
-    "Chips/References/Video Clips/MiniMax_H3_00002_.mp4",
     "Chips"
   ]
 }
