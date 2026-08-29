@@ -1,1 +1,1 @@
-![[Seagull_Concept.jpg]]
+![[Seagull_Concept.png]]
