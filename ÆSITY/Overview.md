@@ -5,7 +5,7 @@
 **Studio 8ight**
 
 > _You are not discovering what happened._  
-> _You are discovering when you happened._
+> _You are discovering when YOU happened._
 
 ---
 
