@@ -366,6 +366,32 @@ The next expedition can build upon the previous one.
 The player should eventually think:
 > "That expedition went badly, but I learned something important."
 This is essential to the short-run structure.
+
+## Oxygen = Expedition Capacity
+
+Your oxygen isn't really your "life."
+
+It's your **budget for exploration**.
+
+Every expedition begins with a finite amount.
+
+You have enough oxygen to accomplish **some** things, but not everything.
+
+That means the player is constantly making decisions like:
+
+> "Do I investigate this room completely?"
+
+> "Do I push deeper?"
+
+> "Do I go back for that thing I saw earlier?"
+
+> "Do I spend six oxygen solving this mechanism?"
+
+> "Do I take the shortcut?"
+
+> "Do I turn around now while I still have enough air to escape?"
+
+Now oxygen matters enormously.
 ---
 16. VR Interaction Philosophy
 VR should not simply be the camera through which the game is viewed.
