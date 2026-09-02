@@ -229,8 +229,8 @@ It creates a memorable final push:
 > **Do I risk going deeper when I may only have a few actions left?**
 ---
 9. Rooms as Narrative Units
-The original One Breath Left design demonstrates the value of treating rooms as more than geography. Its Navigation Deck separates rooms from their descriptions and mechanics, while individual rooms contain investigation milestones, clues, events, and special rules. fileciteturn0file0 fileciteturn0file1
-For Neptopolis, this philosophy translates directly into VR.
+The original One Breath Left design demonstrates the value of treating rooms as more than geography. Its Navigation Deck separates rooms from their descriptions and mechanics, while individual rooms contain investigation milestones, clues, events, and special rules. 
+For Neptopolis, this philosophy translates directly.
 Each room should function as a small authored narrative system.
 A room can contain:
 A visual identity.
@@ -447,8 +447,8 @@ Investigation tracks and milestones.
 Tools that modify the basic rules.
 Modular room construction.
 Different scenarios changing the same underlying exploration framework.
-An explicit epilogue after the main exploration phase. fileciteturn0file0
-The uploaded Navigation Deck also demonstrates a physical deck structure containing standard rooms, non-standard rooms, corridors, and item cards — a useful model for translating a curated modular environment into a digital system. fileciteturn1file0
+An explicit epilogue after the main exploration phase. 
+The uploaded Navigation Deck also demonstrates a physical deck structure containing standard rooms, non-standard rooms, corridors, and item cards — a useful model for translating a curated modular environment into a digital system.
 Neptopolis should borrow the design philosophy rather than reproduce the tabletop game literally.
 ---
 22. What Is Still Undecided?
