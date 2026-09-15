@@ -163,7 +163,7 @@ The lookout hails. **Two sightings**, each with a bearing — _to port_, _to sta
 
 Flotsam, a lone sail, a sunk wreck, a derelict, a man in the water. You reach for a **tool** — you hold five from your exploration deck.
 
-- In these types of situations you are using you Force, Focus and Finesse -> Utility Deck.
+- In these types of situations you are using your Force, Focus and Finesse -> Utility Deck.
 
 You keep one thing. **Some things you keep are dual** — Ship's Provisions serves on deck _and_ in the fight, entering both decks. That is the "aha", and it should land as one.
 
@@ -273,7 +273,7 @@ Is this even worth considering or perhaps there are no homes for old sailors. We
 Two decks used in different contexts:
 
 - **Combat deck** — the Order system of §6, for ship-to-ship encounters.
-- **Exploration / discovery / utility deck** — for non-combat: going ashore, investigating, digging, opening things, and possibly trading with NPCs.
+- **Exploration** — for non-combat: going ashore, investigating, digging, opening things, and possibly trading with NPCs.
 
 **Important reconciliation:** this is _not_ a new system to build from zero. We are extending the Watch's **tool hand** (§5.1) from sea-sightings to land and port exploration — islands, towns, sea-caves, people. Treat it as an extension, not an invention. The watch itself is something we likely need to determine how and if it fits well and will stay involved as now the watch happens between hex tiles? 
 
